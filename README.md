@@ -2,6 +2,7 @@
 
 A modern, glowing password generator with a clean dark-themed UI built using **Flask**, **HTML/CSS**, and **JavaScript**. It features a real-time password strength meter, animated neon effects and copy-to-clipboard functionality. The UI is responsive, interactive, and includes accessibility-friendly elements.
 
+---
 
 ## ✨ Features
 
@@ -14,11 +15,22 @@ A modern, glowing password generator with a clean dark-themed UI built using **F
 - 📱 Fully Responsive Design : Optimized for both desktop and mobile devices
 - 🧠 Lightweight Tech Stack: Built with Flask, clean Jinja templating, vanilla JS, and custom CSS
 
+---
+
 ## 🚀 Tech Stack
 
 - Backend: **Python (Flask)**
 - Frontend: **HTML5, CSS3, JavaScript**
 - Styling: **Bootstrap (minimal)** + **Custom CSS Animations**
+
+---
+
+## 📸 Demo Preview
+
+![paasword generator Screenshot](preview_1.png)  
+![paasword generator Screenshot](preview_2.png)  
+
+---
 
 ## 📁 Folder Structure
 
@@ -33,8 +45,8 @@ A modern, glowing password generator with a clean dark-themed UI built using **F
 └── screenshots/
 ```
 
+---
 ## 🙌 Author
 
-Made with ❤️ by Amrita
+Built with 💖 by Amrita
 
----
