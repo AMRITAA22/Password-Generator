@@ -27,7 +27,7 @@ A modern, glowing password generator with a clean dark-themed UI built using **F
 
 ## 📸 Demo Preview
 
-![paasword generator Screenshot](preview_1.png)  
+![paasword generator Screenshot](screenshots/preview_1.png)  
 ![paasword generator Screenshot](preview_2.png)  
 
 ---
